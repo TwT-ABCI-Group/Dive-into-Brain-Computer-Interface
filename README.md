@@ -1,6 +1,3 @@
-# Neural-Engineering-Fundamental
-Neural Engineering Fundamental Materials of TWT BCI Group 
-
 # 来自TWT BCI Group（脑电编解码方向）的一份指南
 ## 0、引言
 
